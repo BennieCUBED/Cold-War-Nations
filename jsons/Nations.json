@@ -1,7 +1,7 @@
 [
       {
             "name": "America",
-            "leaderName": "America",
+            "leaderName": "John F. Kennedy",
             "adjective": ["American"],
             "startBias": ["Grassland"],
             "preferredVictoryType": "Culture",
@@ -9,20 +9,20 @@
             "startIntroPart1": "...",
             "startIntroPart2": "Can you stop the spread of Communism? Can you build a civilization that can stand the test of time?",
 
-            "declaringWar": "",
-            "attacked": "",
-            "defeated": "",
-            "introduction": "",
+            "declaringWar": "War is the only way... for freedom!",
+            "attacked": "America will not fall to your ideas, never!",
+            "defeated": "its over... but Democracy will not..!",
+            "introduction": "As the President of America, I welcome you to the home of the free.",
 
             "neutralHello": "Welcome!",
             "hateHello": "What, you communist?",
 
-            "tradeRequest": "",
+            "tradeRequest": "These agreements will do good for our relations... Only if you agree.",
             "outerColor": [9, 30, 189],
             "innerColor": [240, 240, 245],
             "favoredReligion": "Christianity",
             "uniqueName": "Ain't I Right?",
-            "uniques": ["[+3 Gold] from each Trade Routes"],
+            "uniques": ["[+3 Gold] from each Trade Routes","[1] Movement <for [{Military} {Land}] units>"],
             "cities": ["Washington","New York","Boston","Philadelphia","Los Angeles","Seattle","Houston","Atlanta","Chicago","Detroit","New Orleans","Lemons","America"],
       },
 ]
