@@ -18,11 +18,11 @@
             "hateHello": "What, you communist?",
 
             "tradeRequest": "",
-            "outerColor": [],
-            "innerColor": [],
+            "outerColor": [9, 30, 189],
+            "innerColor": [240, 240, 245],
             "favoredReligion": "Christianity",
             "uniqueName": "Ain't I Right?",
-            "uniques": [""],
+            "uniques": ["[+3 Gold] from each Trade Routes"],
             "cities": ["Washington","New York","Boston","Philadelphia","Los Angeles","Seattle","Houston","Atlanta","Chicago","Detroit","New Orleans","Lemons","America"],
       },
 ]
