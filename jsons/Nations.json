@@ -1,1 +1,29 @@
+[
+      {
+            "name": "America",
+            "leaderName": "America",
+            "adjective": ["American"],
+            "startBias": ["Grassland"],
+            "preferredVictoryType": "Culture",
 
+            "startIntroPart1": "...",
+            "startIntroPart2": "Caj you stop the spread of Communism? Can you build a civilization that can stand the test of time?",
+
+            "declaringWar": "",
+            "attacked": "",
+            "defeated": "",
+            "introduction": "",
+
+            "neutralHello": "Welcome!",
+            "hateHello": "What, you communist?",
+
+            "tradeRequest": "",
+            "outerColor": [],
+            "innerColor": [],
+            "favoredReligion": "Christianity",
+            "uniqueName": "Ain't I Right?",
+            "uniques": [""],
+            "cities": [""],
+      },
+]
+            
