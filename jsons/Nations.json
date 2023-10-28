@@ -7,7 +7,7 @@
             "preferredVictoryType": "Culture",
 
             "startIntroPart1": "...",
-            "startIntroPart2": "Caj you stop the spread of Communism? Can you build a civilization that can stand the test of time?",
+            "startIntroPart2": "Can you stop the spread of Communism? Can you build a civilization that can stand the test of time?",
 
             "declaringWar": "",
             "attacked": "",
@@ -23,7 +23,7 @@
             "favoredReligion": "Christianity",
             "uniqueName": "Ain't I Right?",
             "uniques": [""],
-            "cities": [""],
+            "cities": ["Washington","New York","Boston","Philadelphia","Los Angeles","Seattle","Houston","Atlanta","Chicago","Detroit","New Orleans","Lemons","America"],
       },
 ]
             
