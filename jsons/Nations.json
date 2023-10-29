@@ -12,7 +12,7 @@
             "declaringWar": "War is the only way... for freedom!",
             "attacked": "America will not fall to your ideas, never!",
             "defeated": "its over... but Democracy will not..!",
-            "introduction": "As the President of America, I welcome you to the home of the free.",
+            "introduction": "As the President of America, I welcome you to the land of the free.",
 
             "neutralHello": "Welcome!",
             "hateHello": "What, you communist?",
@@ -25,5 +25,31 @@
             "uniques": ["[+3 Gold] from each Trade Routes","[1] Movement <for [{Military} {Land}] units>"],
             "cities": ["Washington","New York","Boston","Philadelphia","Los Angeles","Seattle","Houston","Atlanta","Chicago","Detroit","New Orleans","Lemons","America"],
       },
+      {
+            "name": "The Soviets",
+            "leaderName": "Stalin",
+            "adjective": ["Soviet","Russian"],
+            "startBias": ["Tundra"],
+            "preferredVictoryType": "Culture",
+
+            "startIntroPart1": "...",
+            "startIntroPart2": "Can you build a Communist utopia? Can you build a civilization that can stand the test of time?",
+
+            "declaringWar": "The motherland will be powerful once you are under our flag...",
+            "attacked": "Your soldiers will fall before they ever reach the Soviet Union!",
+            "defeated": "The union will be remembered, maybe not by you, but everyone under our unity.",
+            "introduction": "I am Stalin, leader of the Soviet Union. And make sure not to oppose me...",
+
+            "neutralHello": "Greetings...",
+            "hateHello": "what?",
+
+            "tradeRequest": "We are currently open for discussion, trade with the motherland if you want.",
+            "outerColor": [],
+            "innerColor": [],
+            "favoredReligion": "Christianity",
+            "uniqueName": "Glorious Motherland",
+            "uniques": [""],
+            "cities": ["Stalingrad"],
+      },            
 ]
             
