@@ -4,7 +4,7 @@
             "leaderName": "John F. Kennedy",
             "adjective": ["American"],
             "startBias": ["Grassland"],
-            "preferredVictoryType": "Culture",
+            "preferredVictoryType": "Scientific",
 
             "startIntroPart1": "...",
             "startIntroPart2": "Can you stop the spread of Communism? Can you build a civilization that can stand the test of time?",
@@ -30,7 +30,7 @@
             "leaderName": "Joseph Stalin",
             "adjective": ["Soviet","Russian"],
             "startBias": ["Tundra"],
-            "preferredVictoryType": "Culture",
+            "preferredVictoryType": "Scientific",
 
             "startIntroPart1": "...",
             "startIntroPart2": "Can you build a Communist utopia? Can you build a civilization that can stand the test of time?",
@@ -50,6 +50,32 @@
             "uniqueName": "Glorious Motherland",
             "uniques": ["Starts with [Order] adopted","[+1 Production] from [Farm] tiles [in all cities]"],
             "cities": ["Moscow","Stalingrad","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Smolensk","Naroch","Orenburg","Omsk","Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara","The Soviets"],
-      },            
+      },
+      {
+            "name": "China",
+            "leaderName": "Mao Zedong",
+            "adjective": ["Chinese"],
+            "startBias": ["Grassland"],
+            "preferredVictoryType": "Cultural",
+
+            "startIntroPart1": "...",
+            "startIntroPart2": "W.I.P",
+
+            "declaringWar": "You are in the way of progress, which means that war is needed.",
+            "attacked": "Fools! China will not be a push-over anymore!",
+            "defeated": "The humiliation continues...",
+            "introduction": "Greetings, I'm chairman of the CCP, Known for progression.",
+
+            "neutralHello": "Hi!",
+            "hateHello": "You should probably leave...",
+
+            "tradeRequest": "There can be no progress if China cannot trade, so lets do it!",
+            "outerColor": [240, 206, 12],
+            "innerColor": [217, 15, 15],
+            "favoredReligion": "Buddhism",
+            "uniqueName": "Great Leap Forward",
+            "uniques": ["[+1 Production] from [Farm] tiles [in all cities]","[Culture] cost of purchasing [Melee] units [-28]%"],
+            "cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong","Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","China"],          
+      },
 ]
             
