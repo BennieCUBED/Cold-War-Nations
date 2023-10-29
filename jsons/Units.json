@@ -1,1 +1,18 @@
-
+	[
+    {
+		"name": "Cossack",
+		"unitType": "Mounted",
+		"replaces": "Cavalry",
+		"uniqueTo": "The Soviets",
+		"movement": 4,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["[Cossack] ability"],
+		"attackSound": "horse",
+	},
+  ]
