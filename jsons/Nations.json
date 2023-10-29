@@ -27,7 +27,7 @@
       },
       {
             "name": "The Soviets",
-            "leaderName": "Stalin",
+            "leaderName": "Joseph Stalin",
             "adjective": ["Soviet","Russian"],
             "startBias": ["Tundra"],
             "preferredVictoryType": "Culture",
