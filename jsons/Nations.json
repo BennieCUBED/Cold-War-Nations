@@ -74,7 +74,7 @@
             "innerColor": [217, 15, 15],
             "favoredReligion": "Buddhism",
             "uniqueName": "Great Leap Forward",
-            "uniques": ["[+1 Production] from [Farm] tiles [in all cities]","[Culture] cost of purchasing [Melee] units [-28]%"],
+            "uniques": ["[+1 Production] from [Farm] tiles [in all cities]","[Gold] cost of purchasing [Melee] units [-28]%"],
             "cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong","Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","China"],          
       },
 ]
