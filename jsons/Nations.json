@@ -48,7 +48,7 @@
             "innerColor": [240, 206, 12],
             "favoredReligion": "Christianity",
             "uniqueName": "Glorious Motherland",
-            "uniques": ["Starts with [Order] adopted","[+1 Production] from [Farm] tiles [in all cities"],
+            "uniques": ["Starts with [Order] adopted","[+1 Production] from [Farm] tiles [in all cities]"],
             "cities": ["Moscow","Stalingrad","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Smolensk","Naroch","Orenburg","Omsk","Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara","The Soviets"],
       },            
 ]
