@@ -27,6 +27,7 @@
       },
       {
             "name": "The Soviets",
+            "style": "Slavic",
             "leaderName": "Joseph Stalin",
             "adjective": ["Soviet","Russian"],
             "startBias": ["Tundra"],
@@ -53,10 +54,11 @@
       },
       {
             "name": "China",
+            "style": "East Asia",
             "leaderName": "Mao Zedong",
             "adjective": ["Chinese"],
-            "startBias": ["Grassland"],
-            "preferredVictoryType": "Cultural",
+            "startBias": ["Plains"],
+            "preferredVictoryType": "Science",
 
             "startIntroPart1": "...",
             "startIntroPart2": "W.I.P",
@@ -76,6 +78,33 @@
             "uniqueName": "Great Leap Forward",
             "uniques": ["[+1 Production] from [Farm] tiles [in all cities]","[Gold] cost of purchasing [Melee] units [-28]%"],
             "cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong","Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","China"],          
+      },
+      {
+            "name": "South Korea",
+            "style": "East Asia",
+            "leaderName": "Ryee Syng-Man",
+            "adjective": ["Korean"],
+            "startBias": ["Grassland"],
+            "preferredVictoryType": "Culture",
+
+            "startIntroPart1": "...",
+            "startIntroPart2": "Can you unify Korea? Can you build a civilization that can stand the test of time?",
+
+            "declaringWar": "We shall win this war and liberate your people, for the good of Korea.",
+            "attacked": "After all this time, our preparation for war will help us greatly.",
+            "defeated": "No... This can't be the end for the southern unifiers...",
+            "introduction": "Welcome, I am Ryee Syng-Man, future unifier of Korea",
+
+            "neutralHello": "What brings you here?",
+            "hateHello": "What brings you here!?",
+
+            "tradeRequest": "Ah yes! Deals will be greatly appreciated!",
+            "outerColor": [],
+            "innerColor": [255,255,255],
+            "favoredReligion": "Buddhism",
+            "uniqueName": "Anti-communist Regime",
+            "uniques": [""],
+            "cities": [""],
       },
 ]
             
