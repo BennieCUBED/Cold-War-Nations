@@ -99,11 +99,11 @@
             "hateHello": "What brings you here!?",
 
             "tradeRequest": "Ah yes! Deals will be greatly appreciated!",
-            "outerColor": [],
+            "outerColor": [27,33,96],
             "innerColor": [255,255,255],
             "favoredReligion": "Buddhism",
             "uniqueName": "Anti-communist Regime",
-            "uniques": [""],
+            "uniques": ["[+25]% Strength <when adjacent to a [City-State] unit>","[+1 Culture, +1 Happiness] [in all cities] <when not at war>"],
             "cities": ["Seoul","Busan","Daejeon","Incheon","Gwangju","Daegu","Donghae","Changwon","Sokcho","Pohang","Jeonju","Ulsan","Yeosu","Gumi","Andong","Jeju-Si"],
       },
 ]
