@@ -42,7 +42,7 @@
             "introduction": "I am Stalin, leader of the Soviet Union. And make sure not to oppose me...",
 
             "neutralHello": "Greetings...",
-            "hateHello": "what?",
+            "hateHello": "What?",
 
             "tradeRequest": "We are currently open for discussion, trade with the motherland if you want.",
             "outerColor": [217, 15, 15],
@@ -109,7 +109,7 @@
       {
             "name": "North Korea",
             "style": "East Asia",
-            "leaderName": "W.I.P",
+            "leaderName": "Kim li-sung",
             "adjective": ["Korean"],
             "startBias": ["Plains"],
             "preferredVictoryType": "Culture",
@@ -120,7 +120,20 @@
             "declaringWar": "Enough with these pathetic border clashes, lets go to war! for real this time..!",
             "attacked": "South, you can't fight against a superior north!",
             "defeated": "Defeat? Doesn't matter. Korea will still look down on you...",
-            "introduction": "Hello, I am --- from North Korea, future unifiers of Korea",
+            "introduction": "Hello, I am Kim Il-sung from North Korea, future unifiers of Korea",
+
+            "neutralHello": "Hello.",
+            "hateHello": "What?",
+
+            "tradeRequest": "I've got a deal for you.",
+            "outerColor": [255,200,200],
+            "innerColor": [255,0,0],
+            "favoredReligion": "Buddhism",
+            "uniqueName": "Communist Regime",
+            "uniques": ["[+25]% Strength <when attacking>","[+1 Culture, +1 Happiness] [in all cities] <when not at war>"],
+            "cities": ["Pyongyang"],
+
+            
 
             
 ]
