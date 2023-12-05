@@ -126,7 +126,7 @@
             "hateHello": "What?",
 
             "tradeRequest": "I've got a deal for you.",
-            "outerColor": [255,200,200],
+            "outerColor": [100,0,0],
             "innerColor": [255,0,0],
             "favoredReligion": "Buddhism",
             "uniqueName": "Communist Regime",
