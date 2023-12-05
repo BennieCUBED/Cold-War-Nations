@@ -132,6 +132,7 @@
             "uniqueName": "Communist Regime",
             "uniques": ["[+25]% Strength <when attacking>","[+1 Culture, +1 Happiness] [in all cities] <when not at war>"],
             "cities": ["Pyongyang"],
+      },
 
             
 
