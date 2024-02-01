@@ -2,6 +2,8 @@
      {
 		"name": "Huey",
 		"unitType": "Helicopter",
+	        "uniqueTo": "The United States",
+	        "replaces": "Helicopter Gunship",
 		"movement": 8,
 		"strength": 60,
 		"cost": 400,
