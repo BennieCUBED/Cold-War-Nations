@@ -58,7 +58,7 @@
             "leaderName": "Mao Zedong",
             "adjective": ["Chinese"],
             "startBias": ["Plains"],
-            "preferredVictoryType": "Science",
+            "preferredVictoryType": "Scientific",
 
             "startIntroPart1": "...",
             "startIntroPart2": "W.I.P",
@@ -85,7 +85,7 @@
             "leaderName": "Ryee Syng-Man",
             "adjective": ["Korean"],
             "startBias": ["Grassland"],
-            "preferredVictoryType": "Culture",
+            "preferredVictoryType": "Cultural",
 
             "startIntroPart1": "...",
             "startIntroPart2": "Can you unify Korea? Can you build a civilization that can stand the test of time?",
@@ -112,7 +112,7 @@
             "leaderName": "Kim li-sung",
             "adjective": ["Korean"],
             "startBias": ["Plains"],
-            "preferredVictoryType": "Culture",
+            "preferredVictoryType": "Cultural",
 
             "startIntroPart1": "...",
             "startIntroPart2": "Can you unify Korea? Can you build a civilization that can stand the test of time?",
