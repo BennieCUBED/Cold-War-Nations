@@ -1,1 +1,13 @@
-
+[
+     {
+		"name": "Huey",
+		"unitType": "Helicopter",
+		"movement": 8,
+		"strength": 60,
+		"cost": 400,
+		"requiredTech": "Computers",
+		"requiredResource": "Aluminum",
+		"uniques": ["[+75]% Strength <vs [Armored] units>", "No defensive terrain bonus", "Can move after attacking",
+			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit"],
+		"attackSound": "machinegun"
+	},  
