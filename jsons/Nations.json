@@ -1,6 +1,6 @@
 [
       {
-            "name": "America",
+            "name": "The United States",
             "leaderName": "John F. Kennedy",
             "adjective": ["American"],
             "startBias": ["Grassland"],
@@ -26,7 +26,7 @@
             "cities": ["Washington","New York","Boston","Philadelphia","Los Angeles","Seattle","Houston","Atlanta","Chicago","Detroit","New Orleans","Lemons","America"],
       },
       {
-            "name": "The Soviets",
+            "name": "The Soviet Union",
             "style": "Slavic",
             "leaderName": "Joseph Stalin",
             "adjective": ["Soviet","Russian"],
