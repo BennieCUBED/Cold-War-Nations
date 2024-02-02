@@ -27,4 +27,17 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot",
 	},
+	{
+		"name": "People's Liberation Army",
+		"unitType": "Gunpowder",
+		"uniqueTo": "The People's Republic of China",
+		"replaces": "Infantry",
+		"movement": 2,
+		"strength": 70,
+		"cost": 350,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot",
+	},
 ]
